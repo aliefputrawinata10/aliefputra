@@ -24,23 +24,24 @@ Gambar Windows Server
 Gambar server linux
 
 ### 3. Task Manager
-#### -) Antarmuka Pengguna (UI)
+### Terdiiri dari beberapa bagian :
+#### a) Antarmuka Pengguna (UI)
 Task Manager Windows: Memiliki antarmuka grafis yang mudah digunakan, yang memungkinkan pengguna untuk memonitor dan mengelola proses, penggunaan CPU, memori, jaringan, dan disk dengan satu klik. Pengguna dapat dengan mudah mengakhiri tugas atau aplikasi yang berjalan melalui tombol interaktif.
 
 Linux: Linux tidak memiliki "Task Manager" secara langsung, tetapi menawarkan beberapa alternatif melalui antarmuka grafis atau terminal. Alat yang paling umum digunakan adalah System Monitor (untuk distribusi berbasis GNOME) atau KSysGuard (untuk KDE), yang memberikan tampilan serupa dengan Task Manager. Namun, banyak pengguna Linux lebih suka menggunakan alat berbasis terminal seperti htop atau top, yang lebih fleksibel dan memungkinkan manajemen proses secara langsung lewat command line.
-#### -) Fungsionalitas
+#### b) Fungsionalitas
 Task Manager Windows: Menampilkan berbagai tab untuk proses, aplikasi, kinerja sistem (CPU, RAM, disk, dan jaringan), serta pengguna dan layanan. Pengguna dapat memantau proses yang sedang berjalan, mematikan aplikasi atau proses yang tidak merespons, dan bahkan mengatur prioritas proses.
 
 Linux: Alat di Linux, seperti htop dan top, juga menyediakan informasi serupa tentang proses yang berjalan, penggunaan CPU, memori, dan disk. Namun, untuk memonitor jaringan atau pengguna, biasanya diperlukan alat tambahan seperti nmon atau netstat. Pada Linux, pengelolaan proses dapat dilakukan melalui terminal dengan lebih banyak kontrol, seperti membunuh atau mengubah prioritas proses dengan perintah kill atau nice.
-#### -) Penggunaan dan Fleksibilitas
+#### c) Penggunaan dan Fleksibilitas
 Task Manager Windows: Pengguna cukup mengklik dan memilih aplikasi atau proses yang ingin dihentikan. Pengguna juga dapat menavigasi berbagai tab secara visual, menjadikannya sangat ramah pengguna, terutama untuk pengguna non-teknis.
 
 Linux: Pengguna Linux dapat memilih antara antarmuka grafis atau menggunakan perintah di terminal untuk melakukan pengelolaan proses. Alat seperti htop memungkinkan penggunaan interaktif dengan lebih banyak opsi, seperti memantau lebih banyak statistik sistem atau membunuh proses dengan cepat. Keuntungan utamanya adalah fleksibilitas dan kendali lebih besar bagi pengguna yang lebih berpengalaman.
-#### -) Kinerja dan Keamanan
+#### d) Kinerja dan Keamanan
 Task Manager Windows: Meski mudah digunakan, Task Manager di Windows tidak selalu memberikan kontrol mendalam atas proses sistem dan tidak sering memberikan informasi tentang status proses dalam konteks sistem yang lebih luas.
 
 Linux: Karena sebagian besar alat pemantauan Linux dapat dijalankan di terminal dan menawarkan banyak opsi konfigurasi, mereka cenderung lebih ringan dan lebih komprehensif dalam hal pemantauan sistem. Misalnya, penggunaan systemd di banyak distribusi Linux memungkinkan manajemen layanan yang lebih baik dan transparan dibandingkan dengan Task Manager di Windows.
-#### -) Pengelolaan Proses
+#### e) Pengelolaan Proses
 Task Manager Windows: Pengguna dapat memilih untuk menghentikan aplikasi atau proses yang tidak merespons dengan mudah. Task Manager juga memungkinkan pengguna untuk memantau penggunaan CPU, memori, dan disk secara real-time.
 
 Linux: Di Linux, Anda dapat menggunakan alat seperti htop untuk mengelola dan memantau proses dengan lebih mendetail, termasuk memodifikasi prioritas CPU, melihat proses lebih dalam, atau menghentikan aplikasi tertentu. Selain itu, perintah kill dan killall memberikan kontrol lebih bagi pengguna tingkat lanjut untuk menghentikan proses atau aplikasi.
@@ -65,9 +66,10 @@ Windows mendukung hampir semua perangkat lunak populer seperti Microsoft Office,
 Tabel perbandingan software yang kompatibel masing sistem operasi
 
 ## Kesimpulan
-Windows lebih cocok bagi pengguna yang mengutamakan kemudahan penggunaan, kompatibilitas software, dan gaming, karena mendukung banyak aplikasi populer dan memiliki ekosistem yang luas. Namun, Windows memerlukan lisensi berbayar, lebih rentan terhadap malware, dan kurang fleksibel dalam kustomisasi.
+jadi kesimpulan nya perbandingan antara windows dan linux adalah :
+- Windows lebih cocok bagi pengguna yang mengutamakan kemudahan penggunaan, kompatibilitas software, dan gaming, karena mendukung banyak aplikasi populer dan memiliki ekosistem yang luas. Namun, Windows memerlukan lisensi berbayar, lebih rentan terhadap malware, dan kurang fleksibel dalam kustomisasi.
 
-Linux, di sisi lain, unggul dalam keamanan, stabilitas, fleksibilitas, dan efisiensi sumber daya, menjadikannya pilihan ideal untuk server, pengembang, dan pengguna yang menyukai sistem open-source. Namun, Linux memiliki kurva belajar yang lebih tinggi, serta keterbatasan dalam menjalankan beberapa software eksklusif Windows tanpa emulator seperti Wine atau Proton.
+- Linux, di sisi lain, unggul dalam keamanan, stabilitas, fleksibilitas, dan efisiensi sumber daya, menjadikannya pilihan ideal untuk server, pengembang, dan pengguna yang menyukai sistem open-source. Namun, Linux memiliki kurva belajar yang lebih tinggi, serta keterbatasan dalam menjalankan beberapa software eksklusif Windows tanpa emulator seperti Wine atau Proton.
 
 Pada akhirnya, pilihan antara Windows atau Linux tergantung pada kebutuhan spesifik pengguna—apakah lebih mengutamakan kemudahan dan kompatibilitas, atau fleksibilitas dan keamanan.
 
