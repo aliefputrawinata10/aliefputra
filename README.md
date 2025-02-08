@@ -18,7 +18,7 @@ Windows adalah sistem operasi proprietary yang dikembangkan oleh Microsoft, sehi
 Linux lebih populer di server dan cloud computing karena stabilitas, keamanan, dan efisiensinya. Sebagian besar server web di dunia menggunakan Linux dengan teknologi seperti Apache dan Nginx. Windows juga digunakan di server, terutama untuk lingkungan korporat yang memanfaatkan Windows Server, tetapi Linux tetap menjadi pilihan utama karena biaya lisensi yang lebih rendah dan fleksibilitasnya.
 ![Windows 11 Wallpaper](https://user-images.githubusercontent.com/xxxxxx/your-image.png)
 Gambar Windows Server
-![Linux OS for Servers](https://raw.githubusercontent.com/username/repository/branch/path/to/image.png)
+![Linux OS for Servers](https://i.imgur.com/your-image.png)
 Gambar linux
 
 ### 3. Task Manager
