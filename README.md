@@ -60,7 +60,8 @@ Gambaran performa kedua sistem operasi
 ### 6. Kompatibilitas Software
 Windows mendukung hampir semua perangkat lunak populer seperti Microsoft Office, Adobe Photoshop, dan AutoCAD tanpa perlu konfigurasi tambahan. Linux memiliki alternatif open-source seperti LibreOffice dan GIMP, tetapi beberapa aplikasi Windows tidak tersedia secara native dan perlu dijalankan menggunakan Wine atau emulator lainnya, yang kadang tidak bekerja dengan sempurna.
 
-![Screenshot (195)](https://github.com/user-attachments/assets/d60a13e1-f72a-4d67-a047-b04205ceb6c3
+![image](https://github.com/user-attachments/assets/a1eee26a-1515-4c64-8103-1eeb8a9758a7)
+
 Tabel perbandingan software yang kompatibel masing sistem operasi
 
 ## Kesimpulan
