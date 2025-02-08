@@ -19,7 +19,7 @@ Linux lebih populer di server dan cloud computing karena stabilitas, keamanan, d
 
 ![image](https://github.com/user-attachments/assets/79c43172-7170-47c5-b687-ef4e66fa02c6)
 Gambar Windows Server
-th (4).jpg
+
 Gambar linux
 
 ### 3. Task Manager
